@@ -2,14 +2,14 @@
 <img align="center" height="400" width="500" src="https://github-production-user-asset-6210df.s3.amazonaws.com/100768252/244678927-5bc24af4-441f-4a0d-bc76-f6757da06199.jpg"></p>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AranavMahalpure/count.svg" />
+  <img src="https://profile-counter.glitch.me/prajjwalek/count.svg" />
 </p>
-<h1 align="center">Hi 👋, I'm Aranav Mahalpure</h1>
+<h1 align="center">Hi 👋, I'm Prajjwal Ekhande</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AranavMahalpure&label=Profile%20views&color=0e75b6&style=flat" alt="AranavMahalpure" /> </p>
-- 👨‍💻 All of my projects are available at https://aranavmahalpure-movie-recommendation-system--app-bofu8x.streamlit.app/
-- ⚡ Fun fact **I am funny😅**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prajjwalk&label=Profile%20views&color=0e75b6&style=flat" alt="AranavMahalpure" /> </p>
+<!-- 👨‍💻 All of my projects are available at https://aranavmahalpure-movie-recommendation-system--app-bofu8x.streamlit.app/
+- ⚡ Fun fact **I am funny😅**-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aranav-mahalpure-463949237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AranavMahalpure" height="30" width="40" /></a>
@@ -23,4 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajjwalek&show_icons=true&locale=en&layout=compact" alt="prajjwalek" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajjwalek&show_icons=true&locale=en" alt="prajjwalek" /></p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwalek&" alt="prajjwalek" />
-<img  src="https://holopin.io/@aranavmahalpure"/>
+
