@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I am funny😅**-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aranav-mahalpure-463949237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AranavMahalpure" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prajjwalekhande/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AranavMahalpure" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aranav1289/practice" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" alt="GFG" height="30" width="40" /></a>
 <a href="https://leetcode.com/AranavMahalpure/" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="Leetcode" height="30" width="40" /></a>
 </p>
